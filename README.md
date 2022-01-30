@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, folks! 👋
+
+I'm Riwut Libinuko, cloud solution architect, developer, script writter and IT consultant. 
 
 <!--
 **cakriwut/cakriwut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
