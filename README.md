@@ -2,7 +2,12 @@
 
 I'm Riwut Libinuko, cloud solution architect, developer, script writter and IT consultant. 
 
-[![Riwut's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakriwut&show_icons=true&theme=merko)](https://github.com/cakriwut/github-readme-stats)
+<a href="https://github.com/cakriwut/github-readme-stats">
+  <img align="center" style="vertical-align: baseline;" src="https://github-readme-stats.vercel.app/api?username=cakriwut&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/cakriwut/github-readme-stats">
+  <img align="center" style="vertical-align: baseline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakriwut" />
+</a>
 
 <!--
 **cakriwut/cakriwut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
